@@ -25,6 +25,15 @@
 
 ---
 
+
+## 📸 Preview Screenshot
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b804bc60-2ab4-4b83-8a68-4b112156cc5e" width="100%" />
+</p>
+
+---
+
 ## 🖥️ Project Overview
 
 This project recreates the **Mintlify homepage layout** using only:
@@ -61,14 +70,6 @@ Focused on pixel-perfect structure, smooth micro-interactions, and professional 
 | Background | Dark Gradient + SVG |
 | UI Style | Glassmorphism + Soft Shadows |
 | Interaction | Hover Elevation + Smooth Transitions |
-
----
-
-## 📸 Preview Screenshot
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b804bc60-2ab4-4b83-8a68-4b112156cc5e" width="90%" />
-</p>
 
 ---
 
